@@ -22,10 +22,6 @@ bun dev
 pnpm dlx create-next-app@latest .
 ```
 
-```bash
-cd social-bookmark
-```
-
 2. prettier & eslint setting
 
 ```bash
