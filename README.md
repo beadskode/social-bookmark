@@ -19,7 +19,7 @@ bun dev
 1. create next project
 
 ```bash
-pnpm dlx create-next-app@latest
+pnpm dlx create-next-app@latest .
 ```
 
 ```bash
